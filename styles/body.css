@@ -1,0 +1,44 @@
+.body{
+    background-color:white;
+    margin-left:144px;
+    margin-top:120px;
+    
+    padding-left:40px;
+    padding-right:30px;
+    
+}
+
+.title{
+    font-size:50px;
+    display:flex;
+    font-weight: 900;
+    justify-content: left;
+    margin-left:20px;
+}
+
+.first-word-title{
+    color:#ee2364;
+    margin-right:20px;
+}
+
+.rsa-div .first-word-title{
+    color:#ee2364;
+    margin-right:20px;
+    font-size: 35px;
+    padding-top:10px;
+}
+
+.rsa-div .rest-of-title{
+    color:#0d1635;
+    font-size: 35px;
+    padding-top:10px;
+    
+
+}
+.rest-of-title{
+    
+    color:#0d1635;
+    
+    
+}
+

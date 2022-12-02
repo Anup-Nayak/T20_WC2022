@@ -1,0 +1,15 @@
+.footer-button{
+    height:20px;
+    margin-bottom:0px;
+    margin-left:10px;
+    margin-right:10px;
+    border:none;
+    background-color: brown;
+    color:white;
+    transition:0.3s;
+}
+
+.footer-button:hover{
+    opacity:0.5;
+    color: rgba(236, 232, 232, 0.479);
+}

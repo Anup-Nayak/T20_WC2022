@@ -1,0 +1,16 @@
+.socials-tag{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: black;
+    color:white;
+    width:220px;
+    
+    cursor: pointer;
+    opacity:0.8;
+    transition:0.3s;
+}
+
+.socials-tag:hover{
+    opacity:1;
+}

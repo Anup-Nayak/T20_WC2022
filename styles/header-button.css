@@ -1,0 +1,15 @@
+.header-button{
+    margin-left:5px;
+    margin-right:10px; 
+    background-color: black;
+    color: white;
+    transition: 0.3s;
+    position:relative;
+    cursor: pointer;
+    
+}
+
+.header-button:hover{
+    color: gray;
+    
+}

@@ -1,0 +1,20 @@
+.nav-button{
+    margin-top:0px;
+    margin-bottom:0px;
+    padding-bottom:10px;
+    padding-top:10px;
+    background-color:#0d1635;
+    border: none;
+    transition: 0.3s;
+    cursor: pointer;
+    width:150px;
+    color:white;
+    font-weight: bold;
+    
+    
+}
+
+.nav-button:hover{
+    background-color: #070d21;
+    opacity:0.9;
+}

@@ -1,0 +1,11 @@
+.header-top{
+    background-image: url('https://img.freepik.com/premium-vector/abstract-geometric-polygon-background-wallpaper-header-cover-with-triangle-shape-low-polly-blue_206846-1173.jpg');
+    flex:7;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-weight: 900;
+    font-size:xx-large ;
+    padding-top: 20px;
+    color:aliceblue;
+}
